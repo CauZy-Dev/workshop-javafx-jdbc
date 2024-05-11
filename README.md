@@ -1,4 +1,4 @@
-# CRUD System for Sellers and Departments
+# Workshop-JavaFX-JDBC
 
 This Java application implements a CRUD (Create, Read, Update, Delete) system for managing sellers and departments. It utilizes the JDBC framework for database connectivity with MySQL and JavaFX for the graphical user interface.
 
@@ -28,16 +28,16 @@ This Java application implements a CRUD (Create, Read, Update, Delete) system fo
 
 4. Build the project and run the main application class to launch the CRUD system.
 
-### Usage
-
-1. Upon launching the application, you will be presented with the main user interface.
-2. Use the navigation options to perform CRUD operations on sellers and departments.
-3. Follow the on-screen prompts to add, view, update, or delete records.
-4. Ensure to properly handle any errors or exceptions that may occur during database operations.
-
 ## Screenshots
 
-[Insert screenshots of your application here]
+### Seller List Screen
+![Seller List](sellers.png)
+
+### Seller Form Screen
+![Seller Form](SellersForm.png)
+
+### Department List Screen
+![Department list](departments.png)
 
 ## Technologies Used
 
@@ -52,5 +52,5 @@ This Java application implements a CRUD (Create, Read, Update, Delete) system fo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Licença MIT](https://github.com/CauZy-Dev/workshop-javafx-jdbc/blob/main/LICENSE).
 
